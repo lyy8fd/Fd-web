@@ -1,0 +1,24 @@
+{
+  "audioUrl": "/audio/chicago.mp3",
+  "audioTitle": "Michael Jackson - Chicago",
+  "visits": 4,
+  "uniqueVisitors": [
+    "test_visitor_1",
+    "test_visitor_2",
+    "v_wizql5umuj0b7op"
+  ],
+  "recentVisitors": [
+    {
+      "id": "v_wizql5",
+      "device": "هاتف Android",
+      "time": 1790464753694
+    },
+    {
+      "id": "test_vis",
+      "device": "هاتف iPhone",
+      "time": 1790464406742
+    }
+  ],
+  "avatarImage": "/avatar.png",
+  "coverImage": "/cover.jpg"
+}
